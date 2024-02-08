@@ -1,6 +1,10 @@
 # DataEngineeringCapstone
 Data Engineering ETL Project for IBM Data Engineering Specialization
 ETL
+All data provided by IBM Data Engineering Specialization Coursera course
 
+In this assignment you will write a python program that will:
 
-In this first part of the assignment, you will perform four exercises, but before proceeding with the assignment, you will prepare the lab environment by starting MySQL server, MongoDB server, and then downloading the files database from the given link. Further, you will import the data in the JSON file to a database and a collection, and the data in the SQL file to the MySQL server. You will also verify your access to the cloud instance of the IBM DB2 server. The first exercise requires you to extract the data from the sales tables in MySQL and from the MongoDB database into CSV format.
+    Connect to IBM DB2 or PostgreSQL data warehouse and identify the last row on it.
+    Connect to MySQL staging data warehouse and find all rows later than the last row on the datawarehouse.
+    Insert the new data in the MySQL staging data warehouse into the IBM DB2 or PostgreSQL production data warehouse.
